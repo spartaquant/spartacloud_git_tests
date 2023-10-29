@@ -1,0 +1,14 @@
+app_description: ''
+app_id: 2b7c8789-93bd-4cc4-8cd2-776c0dd90ab2
+app_name: test
+expose_port: 0
+expose_url: ''
+is_app_exposed: false
+is_clonable: true
+project_path: /spartacloud_dev/2b7c8789-93bd-4cc4-8cd2-776c0dd90ab2
+start_cmd: '# In the case of a docker compose application
+
+  docker compose up -d --build'
+stop_cmd: '# In the case of a docker compose application
+
+  docker compose down'
